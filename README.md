@@ -1,0 +1,1 @@
+Visual Basic Macros for Excel spreadsheets. Capital and interest mortgage amortizations (and B2L gearing based on this). Also, compound interest calculator with regular deposits (and these regular deposits increase each year).
